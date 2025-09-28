@@ -38,7 +38,8 @@ Live poll: share your ideas here: https://app.sli.do/event/sVR5JW2tAKyhBMMXoijM6
 ## 4) No code AI tools
 
 AWS PartyRock Demo: https://partyrock.aws/
-Show off your creation: https://app.sli.do/event/ofEvrhsk9vEtCVGaFjoNxA/live/polls
+
+Show off your PartyRock tools (make sure to use the public link): https://app.sli.do/event/ofEvrhsk9vEtCVGaFjoNxA/live/polls
 
 Zapier Demo: https://zapier.com/
 
