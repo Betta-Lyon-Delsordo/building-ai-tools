@@ -80,6 +80,11 @@ ollama run gdisney/mistral-uncensored
 
 Langchain Agents: https://python.langchain.com/docs/tutorials/agents/
 
+PentestGPT: https://github.com/GreyDGL/PentestGPT 
+
+Poll: do you trust AI agents with pentesting? https://app.sli.do/event/orEWPACrpGhsrqxYDhAuPg
+
+
 ## 8) Full code AI tools
 
 LangChain: https://python.langchain.com/docs/introduction/
