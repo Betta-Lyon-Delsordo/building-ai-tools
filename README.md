@@ -97,6 +97,8 @@ ChromaDB: https://www.trychroma.com/
 
 FAISS: https://faiss.ai/index.html
 
+Hugging Face Embeddings: https://huggingface.co/blog/getting-started-with-embeddings
+
 ## 9) Closing
 Look at you, you've already built some AI tools to help with your work! Now, make a plan to dive deeper on one of these tools or platforms that would be most useful to you. Get buy-in from your team and leadership, and start teaching others how to be more productive with these tools as well. 
 
