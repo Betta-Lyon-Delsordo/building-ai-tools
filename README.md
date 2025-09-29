@@ -45,15 +45,52 @@ Zapier Demo: https://zapier.com/
 
 ## 5) Low code AI tools
 
+Amazon Bedrock Demo: https://aws.amazon.com/bedrock/
+
+There are many great “AI for kids” tools out there, that are actually great low-code (colored blocks) options for startups and proofs of concepts
+
+Machine Learning for Kids: https://machinelearningforkids.co.uk/
+
+Teachable Machine:  https://teachablemachine.withgoogle.com/
+
+Thunkable: https://thunkable.com/
 
 ## 6) Offline AI tools
 
+GPT4All: https://www.nomic.ai/gpt4all
+
+Ollama: https://ollama.com/
+
+Llama3: https://www.llama.com/models/llama-3/
+
+Install Ollama with Llama3 in just two lines:
+
+```
+curl -fsSL https://ollama.com/install.sh | sh
+ollama run llama3.2
+```
 
 ## 7) Uncensored AI & agents
 
+Mistral Uncensored: https://ollama.com/gdisney/mistral-uncensored
+
+```
+ollama run gdisney/mistral-uncensored
+```
+
+Langchain Agents: https://python.langchain.com/docs/tutorials/agents/
 
 ## 8) Full code AI tools
 
+LangChain: https://python.langchain.com/docs/introduction/
+
+Gradio: https://www.gradio.app/
+
+Streamlit: https://streamlit.io/
+
+ChromaDB: https://www.trychroma.com/
+
+FAISS: https://faiss.ai/index.html
 
 ## 9) Closing
 Look at you, you've already built some AI tools to help with your work! Now, make a plan to dive deeper on one of these tools or platforms that would be most useful to you. Get buy-in from your team and leadership, and start teaching others how to be more productive with these tools as well. 
